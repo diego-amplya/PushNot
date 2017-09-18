@@ -10,7 +10,10 @@
     },
     "cordova": {
         "plugins": {
-            "cordova-plugin-firebase": {}
+            "cordova-plugin-firebase": {},
+            "phonegap-plugin-push": {
+                "SENDER_ID": "406041629151"
+            }
         }
     }
 }
