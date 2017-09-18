@@ -1,0 +1,16 @@
+{
+    "name": "com.phonegap.helloworld",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "displayName": "Ejemplo",
+    "dependencies": {
+        "cordova-plugin-firebase": "^0.1.24"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-firebase": {}
+        }
+    }
+}
